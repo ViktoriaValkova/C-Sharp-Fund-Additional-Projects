@@ -29,7 +29,7 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 
 3. The computer's choice is generated using the `Random` class. 
 
-4. Choosing the winner: I have implemented the following possibilities in my version of the game: 
+4. Determining the winner: I have implemented the following possibilities in my version of the game: 
 
 | Player's Choice | Computer's Choice | Result |
 |      :---:     |      :-----:       |  :---: |
@@ -56,8 +56,12 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 
 <img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/927b8e89-292c-470b-824a-8a8c14843813" width="500" />
 
-**Game Demo**
+
+
+**Game Demo**  
 You can try the game for yourself directly in your browser: 
+[<img width="680" alt="image" src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/39f28a5d-2bcc-479c-8424-b774ebf389ad">](https://replit.com/@ViktoriaValkov1/RockPaperScissors-By-ViktoriaValkova)
+
 
 
 
