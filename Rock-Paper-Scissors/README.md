@@ -6,6 +6,8 @@
 With my first project outside of course exercises, I wanted to do a quick rock-paper-scissors console game.  
 The player has the option to play a single game against the computer or continue and play best out of 3.
 
+[Here you can see the source code](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/blob/main/Rock-Paper-Scissors/Rock-Paper-Scissors.cs)
+
 **A bit about the game itself**
 
 In a traditional rock-paper scissors game, the two players have the option to choose either rock, paper or scissors.   
@@ -19,11 +21,11 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 `s` or `scissors` or `Scissors` to choose scissors   
 `r` or `rock` or `Rock` to choose rock
 
-![inital](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/889b3bbf-3135-4c5d-9044-79aefad33764)
+<img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/889b3bbf-3135-4c5d-9044-79aefad33764" width="550" />
 
-2. If another, invalid symbol or word is entered, the message "Invalid symbol" is printed on the console and the player is prompted to makea choice again. 
+2. If another, invalid symbol or word is entered, the message "Invalid input" is printed on the console and the player is prompted to makea choice again. 
 
-![invalidSymbol](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/1c0d9c39-0c32-46c8-88be-d2d4ca95018c)
+<img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/1c0d9c39-0c32-46c8-88be-d2d4ca95018c" width="400" />
 
 3. The computer's choice is generated using the `Random` class. 
 
@@ -46,11 +48,16 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 * To quit the current game, the player can press either `n` or `N`.
 * To continue playing, the player can press either `y` or `Y`.
 
-![firstRound](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/815d5f7c-6562-4289-8276-009d91c3444d)
+<img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/815d5f7c-6562-4289-8276-009d91c3444d" width="400" />
 
 6. If the player chooses 'y', steps 1-3 are repeated twice. 
 
 7. After that, the final winner and points won are printed on the console and the game finishes.
 
-![finalMessage](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/927b8e89-292c-470b-824a-8a8c14843813)
+<img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/927b8e89-292c-470b-824a-8a8c14843813" width="500" />
+
+**Game Demo**
+You can try the game for yourself directly in your browser: 
+
+
 
