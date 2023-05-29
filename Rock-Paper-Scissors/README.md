@@ -61,6 +61,6 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 **Game Demo**  
 You can try the game for yourself directly in your browser: 
 
-[![linkToReplit](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/d4cedc63-0b3a-4294-a174-22be04a5b312)](https://replit.com/@ViktoriaValkov1/RockPaperScissors-By-ViktoriaValkova)
+[![linkToReplit](https://th.bing.com/th/id/OIP.gvDmGNepjcvuG5ZSpTd-5QHaFL?pid=ImgDet&rs=1)](www.google.com)
 
 
