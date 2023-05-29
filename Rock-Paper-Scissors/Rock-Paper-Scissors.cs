@@ -58,7 +58,8 @@ namespace Rock_Paper_Scissors
                     i--; 
                     continue;
                 }
-                int computerMove = RandomNumberGenerator.GetInt32(1, 4);
+                Random random = new Random();
+                int computerMove = random.Next(1, 4);
                 string computerMoveText = string.Empty;
                 switch (computerMove)
                 {
