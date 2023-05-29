@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-
-namespace Rock_Paper_Scissors
+﻿namespace Rock_Paper_Scissors
 {
     internal class Rock_Paper_Scissors
     {
