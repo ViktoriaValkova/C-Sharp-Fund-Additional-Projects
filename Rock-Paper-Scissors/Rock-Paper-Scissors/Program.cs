@@ -2,7 +2,7 @@
 
 namespace Rock_Paper_Scissors
 {
-    internal class Program
+    internal class Rock_Paper_Scissors
     {
         static void Main()
         {
