@@ -54,14 +54,11 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 
 7. After that, the final winner and points won are printed on the console and the game finishes.
 
-<img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/927b8e89-292c-470b-824a-8a8c14843813" width="500" />
+<img src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/927b8e89-292c-470b-824a-8a8c14843813" width="500" />  
 
 
 
 **Game Demo**  
 You can try the game for yourself directly in your browser: 
-[<img width="680" alt="image" src="https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/39f28a5d-2bcc-479c-8424-b774ebf389ad">](https://replit.com/@ViktoriaValkov1/RockPaperScissors-By-ViktoriaValkova)
 
-
-
-
+[![linkToReplit](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/75268d23-e444-4b26-8d39-390f2a68b52e)](https://replit.com/@ViktoriaValkov1/RockPaperScissors-By-ViktoriaValkova)
