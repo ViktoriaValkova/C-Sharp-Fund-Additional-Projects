@@ -19,9 +19,15 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 `s` or `scissors` or `Scissors` to choose scissors   
 `r` or `rock` or `Rock` to choose rock
 
-2. The computer's choice is generated using the `Random` class. 
+![inital](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/889b3bbf-3135-4c5d-9044-79aefad33764)
 
-3. Choosing the winner: I have implemented the following possibilities in my version of the game: 
+2. If another, invalid symbol or word is entered, the message "Invalid symbol" is printed on the console and the player is prompted to makea choice again. 
+
+![invalidSymbol](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/1c0d9c39-0c32-46c8-88be-d2d4ca95018c)
+
+3. The computer's choice is generated using the `Random` class. 
+
+4. Choosing the winner: I have implemented the following possibilities in my version of the game: 
 
 | Player's Choice | Computer's Choice | Result |
 |      :---:     |      :-----:       |  :---: |
@@ -35,11 +41,16 @@ The winner is chosen with the following logic: rock crushes scissors, scissors c
 |       paper     |        scissors   |  loss  |
 |       paper     |        rock       |  win   |
 
-4. After getting the result (win, loss, draw) the player is prompted to either quit playing or try their luck in best out of three. 
+5. After getting the result (win, loss, draw) the player is prompted to either quit playing or try their luck in best out of three. 
 
 * To quit the current game, the player can press either `n` or `N`.
 * To continue playing, the player can press either `y` or `Y`.
 
-5. If the player chooses 'y', steps 1-3 are repeated twice. 
+![firstRound](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/815d5f7c-6562-4289-8276-009d91c3444d)
 
-6. After that the final winner and points won are printed on the console and the game finishes.
+6. If the player chooses 'y', steps 1-3 are repeated twice. 
+
+7. After that, the final winner and points won are printed on the console and the game finishes.
+
+![finalMessage](https://github.com/ViktoriaValkova/CSharp-Fund-Additional-Projects/assets/132173101/927b8e89-292c-470b-824a-8a8c14843813)
+
